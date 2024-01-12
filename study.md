@@ -1,10 +1,19 @@
 - 2024/01/12
     - 유용한 헤더 + 빠른 입출력
       ```cpp
-      #include <bits/stdc++.h>
-      ios_base :: sync_with_stdio(false); 
-      cin.tie(NULL); 
-      cout.tie(NULL);
+      #include<bits/stdc++.h>
+      using namespace std;
+    
+      int main(){
+          ios_base::sync_with_stdio(false);
+          cin.tie(NULL); 
+          cout.tie(NULL);
+    
+          int a;
+          cin >> a;
+          cout << a <<'\n';
+          return 0;
+      }
       ```
 - 2024/01/11
     - 1987 소수 찾기 (B2)
