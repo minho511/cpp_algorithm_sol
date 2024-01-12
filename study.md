@@ -1,3 +1,8 @@
+- 2024/01/12
+    - 유용한 헤더
+      ```cpp
+      #include <bits/stdc++.h>
+      ```
 - 2024/01/11
     - 1987 소수 찾기 (B2)
         - [에라토스 테네스의 체](https://ko.wikipedia.org/wiki/%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4%EC%9D%98_%EC%B2%B4)
