@@ -1,3 +1,18 @@
+- 2024/01/21
+    - 6855 골드바흐의 추측 (S1)
+    - 3085 사탕 게임 (S2)
+        문자열로 graph 입력 받기 -> Scanf를 많이 사용
+        ```cpp
+        // Example
+        // https://www.acmicpc.net/source/25685850
+        // https://www.acmicpc.net/source/9639037
+        char Map[52][52];
+        scanf("%d", &N);
+        for (int i = 1; i <= N; i++) {
+            scanf("%s", &Map[i][1]);
+        }
+        
+        ```
 - 2024/01/12
     - 유용한 헤더 + 빠른 입출력
       ```cpp
